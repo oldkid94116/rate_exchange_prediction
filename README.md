@@ -8,8 +8,8 @@ two countries central bank interest rates and U.S. import/export.
 
 File eu_mf_prod.ipynb used LSTM model to predict EU/USD exchange rate based on US Central Bank interest rate and EU Central Bank interest rate as well as US import / export energy.
 
-Prediction results from weekly data set 2001 to 2017:
------------------------------------------------------
+Prediction results from weekly data set 2001 to 2017: </br>
+----------------------------------------------------- </br>
 1 Week		Average	Prediction	Error </br>
 12/4/2017	12/8/2017	0.847	0.8467	-0.00035
 2 week				
