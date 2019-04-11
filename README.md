@@ -10,7 +10,7 @@ File eu_mf_prod.ipynb used LSTM model to predict EU/USD exchange rate based on U
 
 Prediction results from weekly data set 2001 to 2017:
 -----------------------------------------------------
-1 Week		Average	Prediction	Error
+1 Week		Average	Prediction	Error </br>
 12/4/2017	12/8/2017	0.847	0.8467	-0.00035
 2 week				
 12/11/2017	12/15/2017	0.8494	0.8443	-0.006
